@@ -1,13 +1,19 @@
 # Phaser Webpack Init Repo
 
-Generic Simple Phaser Webpack Repo Configuration
+Getting Started tutorial from [phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
+
+![](./app_screenshot.png)
 
 # Project Details
+
+This project includes my code practice for a working game built following the 'Getting started tutorial' from [phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
+
+# Live demo
+
+![link]()
  
 Includes basic configuration for 
-- WebPack basic config (CSS/icons/images/files)
-- ESlint, Stylelint
-- Github linters
+- WebPack basic config(CSS/icons)
 - JS/HTML/CSS 
 - Phaser
 - Basic source fonts: open source Futura (./src/fonts/futura)
@@ -62,8 +68,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Family, always my family.
-- The Beagles!
+- [phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
 
 ## 📝 License
 

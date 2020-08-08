@@ -10,7 +10,7 @@ This project includes my code practice for a working game built following the 'G
 
 # Live demo
 
-![link]()
+[Raw Githack link](https://raw.githack.com/canriquez/phaser-tutorial/feat_init/build/index.html)
  
 Includes basic configuration for 
 - WebPack basic config(CSS/icons)

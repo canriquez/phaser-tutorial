@@ -1,6 +1,6 @@
-# Getting Started tutorial from phaser.io
+# First Phaser 3 game tutorial from phaser.io
 
-Getting Started tutorial from [phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
+Making your first Phaser 3 game tutorial from [phaser.io](http://phaser.io/tutorials/making-your-first-phaser-3-game/part1)
 
 ![](./app_screenshot.png)
 
